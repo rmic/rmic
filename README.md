@@ -10,10 +10,13 @@ I'm a **Data Engineer** and **MLOps Engineer** with a passion for health related
 
 ## 🛠️ Skills and Technologies
 
+### Languages & tools 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=Data-Version-Control&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white) 
+
+### Health data standards
 ![FHIR](https://img.shields.io/badge/-FHIR-DD0031?style=flat)
 ![HL7](https://img.shields.io/badge/-HL7-FF4500?style=flat)
 ![OMOP](https://img.shields.io/badge/-OMOP-2F4F4F?style=flat)
