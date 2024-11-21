@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 
 ## My stats
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<div align="center"><!-- Profile View Count -->
+<img align="center" src="https://komarev.com/ghpvc/?username=rmic&label=Profile%20views&color=0e75b6&style=flat" alt="rmic"/></div>
