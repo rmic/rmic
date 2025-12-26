@@ -55,6 +55,8 @@ One concrete outcome of this work is a **QGIS plugin** I’m currently developin
 
 - **QGIS Plugin – OSM Conflation Bridge**  
   Tooling to assist in the conflation and validation of emergency-related infrastructure (ambulance stations, fire stations, emergency services) in OpenStreetMap, with a focus on data quality and real-world operational relevance.
+- **GCP Editor**
+  A simple yet functional GCP (Ground Control Point) file editor that helps pinpoint drone aerial imagery on a map to create georeferenced orthomosaics using any drone.
 
 ---
 
