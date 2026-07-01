@@ -57,6 +57,8 @@ One concrete outcome of this work is a **QGIS plugin** I’m currently developin
   Tooling to assist in the conflation and validation of emergency-related infrastructure (ambulance stations, fire stations, emergency services) in OpenStreetMap, with a focus on data quality and real-world operational relevance.
 - **GCP Editor**
   A simple yet functional GCP (Ground Control Point) file editor that helps pinpoint drone aerial imagery on a map to create georeferenced orthomosaics using any drone.
+- **Mapping Tournai / Mapillarization**
+  An ongoing local mapping project to improve street-level imagery and OpenStreetMap coverage around Tournai. It combines Mapillary captures, PostGIS analysis, QGIS review, and a small public Hugo site to track coverage progress and field notes: [mapping-tournai.be](https://mapping-tournai.be).
 
 ---
 
